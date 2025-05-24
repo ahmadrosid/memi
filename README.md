@@ -1,5 +1,7 @@
 # Memi
 
+_**Work in Progress**_
+
 Your personal knowledge AI Assistant.
 
 ## Why?
