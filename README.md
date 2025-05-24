@@ -1,6 +1,6 @@
 # Memi
 
-_**[🚧 Still Work in Progress]**_
+_**🚧 Still Work in Progress**_
 
 Your personal knowledge AI Assistant.
 
